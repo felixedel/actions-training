@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  Build:
     name: My first build job
     runs-on: ubuntu-latest
     steps:
